@@ -1,0 +1,31 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi ../../../../../cursos online/udemy/reactjs/proyectos/todo_bitcoin/node_modules/next/dist/client/next": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static/y96B3Gwx7NyvQBZZnNsIp/pages/_app.js": 3,
+      "static/y96B3Gwx7NyvQBZZnNsIp/pages/_error.js": 4,
+      "static/y96B3Gwx7NyvQBZZnNsIp/pages/index.js": 5,
+      "static/y96B3Gwx7NyvQBZZnNsIp/pages/nosotros.js": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
